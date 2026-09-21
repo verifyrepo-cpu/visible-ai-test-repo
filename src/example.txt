@@ -1,0 +1,2 @@
+This is an example file created in the src directory.
+Feel free to edit or delete this file as needed.
